@@ -1,0 +1,218 @@
+        body{
+            font-family: 'Montserrat', sans-serif;
+            background-color: #F5F7FA;
+
+        }
+
+        .about-me-section{
+            margin: 0 0 40px 0;
+        }
+
+        /* ABOUT ME SECTION */
+
+        .about-me-profession{
+            color: black;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 17px;
+        margin: 0 0 20px 0;
+        }
+
+        .my-name{
+            font-style: normal;
+        font-weight: bold;
+        font-size: 45px;
+        line-height: 55px;
+
+        color: #000000;
+
+        }
+
+        .my-description{
+            font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+
+
+        color: #595959;
+
+        }
+
+        .main-section{
+            display: flex;
+            flex-direction: row-reverse;
+            width: 1200px;
+            background: #FFFFFF;
+            margin: 40px auto;
+
+        }
+
+        .main-content{
+            margin: 100px 90px 90px 100px;
+
+        }
+
+        /* PROJECT SECTION */
+
+        .main-title{
+            font-style: normal;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 27px;
+
+        color: #000000;
+        }
+
+        .project-section{
+        margin-bottom: 50px;
+        
+        }
+
+        .project-a{
+        padding: 0 0 0 18px;
+
+        }
+
+        .number{
+            color: black;
+            font-weight: bold;
+            padding: 10px 0 0 0px;
+        }
+
+        .project-text{
+            font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+        margin-left: 5px;
+        color: #595959;
+        }
+
+        .project-link{
+            font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+        color: #595959;
+        }
+
+        .project-breaked{
+            font-style: normal;
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 24px;
+            color: #000000;
+            font-weight: 700;
+        }
+
+        .work-place{
+            color: #FB6D3A;
+        }
+
+        .work-time{
+            font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 15px;
+        color: #A8A8A8;
+        }
+
+        .wort-time-a{
+        color: black;
+        }
+
+        .list-b{
+            font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+        color: #595959;
+
+        }
+
+        .work-time-list{
+            padding: 0 0 0 20px;
+        }
+
+        .education-a{
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 17px;
+        color: #000000;
+        }
+
+        /* sidebar section */
+
+        .sidebar{
+            background-color: #1E2939;
+            width: 370px;
+            padding-top: 40px;
+        
+        }
+            
+        .sidebar-a,.sidebar-b,.sidebar-c{
+        margin: 50px 0 0 0;
+        margin-left: 40px;
+        }
+
+        .sidebar-title{
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 22px;
+            line-height: 27px;
+            color: #FFFFFF;
+        
+            margin-bottom: 10px;
+        }
+
+
+
+        /* sidebar a type/link */
+        .contacts-section-type{
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 24px;
+            color: #FFFFFF;
+            margin-right: 5px;
+        
+        }
+
+        .contacts-section-link{
+        color: #707989;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+        }
+
+        .list{
+            padding: 0 0 0 20px ;
+
+        }
+
+        .list-a{
+            color: #FB6D3A;
+
+            
+        }
+
+        .list-a-text{
+            font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+        color: #FFFFFF;
+        margin-left: 5px;
+        }
+
+        .list-a-text-a{
+color: black;
+        }
+
+        .photo
+        {
+            padding: 10px 100px 400px 40px;
+        }
